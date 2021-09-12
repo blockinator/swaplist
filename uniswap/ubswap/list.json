@@ -14,12 +14,12 @@
   "timestamp": "2021-09-12T14:15:22+0000",
   "tokens": [
       {
-          "name": "USWAP",
+          "name": "UBSWAP",
           "chainId": 1,
           "symbol": "UBP",
           "decimals": 18,
           "address": "0xDe10D945A5c5F91d076b7DCd916ce7f251F85bc0",
-          "logoURI": "https://raw.githubusercontent.com/blockinator/swaplist/master/uniswap/ubswap/images/shiba.png"
+          "logoURI": "https://raw.githubusercontent.com/blockinator/swaplist/master/uniswap/ubswap/images/ubswap-logo.png"
       },
       {
           "name": "BasicAttentionToken",
